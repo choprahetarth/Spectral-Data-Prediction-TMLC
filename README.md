@@ -18,3 +18,15 @@ Submission Criteria –
 - Evaluation metric is mean absolute percentage error
 - Use visualizations and explain your model performance
 - Email before 11:59 PM  15-08-2021
+
+
+
+
+## Solution Methodology
+On the given dataset, following operations were performed to get an ideal MAPE of ~1.69.
+
+- The dataset was loaded and EDA was performed.
+- Using Pearson Correlation highly correlated features were eliminated.
+- A Baseline Model was looked upon from the Research Work that I have previously worked on this Domain - https://ieeexplore.ieee.org/document/9415633
+- The dataset was normalized and trained on a baseline model scoring a MAPE of 5.9318.
+- Using Keras Tuner, a hyper-parameter optimized model was trained, and using that, the final predictions provided a MAPE of 1.685780.
