@@ -1,5 +1,5 @@
 # Spectral-Data-Prediction-TMLC
-Solution to the problem statement provided by TMLC
+Solution to the problem statement provided by The Machine Learning Company
 
 ## Problem Statement
 Build a deep learning model on given tabular data(File is attached along with this email)
