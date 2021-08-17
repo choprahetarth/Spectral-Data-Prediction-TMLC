@@ -1,5 +1,5 @@
 # Spectral-Data-Prediction-TMLC
-Solution to the problem statement provided by The Machine Learning Company
+Apply Deep Learning to predict the Content Uniformity from a given Spectroscopy Dataset.
 
 ## Problem Statement
 Build a deep learning model on given tabular data(File is attached along with this email)
